@@ -80,7 +80,7 @@ Report Creation: Preparing comprehensive reports and presentations.
 Communication: Clearly conveying complex information and results.
 Tools/Techniques:
 
-Tools: Jupyter Notebooks, Markdown, Google Docs, LaTeX
+Tools: Jupyter Notebooks
 Content: Methodology, results, recommendations, and visualizations.
 Summary of Skills
 Data Handling: Mastery in cleaning, preprocessing, and transforming data.
